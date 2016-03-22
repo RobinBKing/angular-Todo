@@ -1,3 +1,8 @@
+
 h1 {
   color: pink;
+}
+.selected {
+  color: #22bdf0;
+  background-color: yellow;
 }
