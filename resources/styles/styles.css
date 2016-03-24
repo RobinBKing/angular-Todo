@@ -1,6 +1,6 @@
 
 h1 {
-  color: pink;
+  color: green;
 }
 
 .selected {
@@ -18,4 +18,9 @@ h1 {
   margin-left: 10px;
   padding-top: 8px;
   padding-bottom: 8px;
+}
+
+.filter {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
